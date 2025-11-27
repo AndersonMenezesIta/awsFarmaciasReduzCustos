@@ -9,3 +9,6 @@ do gráfico **Proporcao_Custos_Atuais_vs_AWS.**
 
 • **Conclusão para a diretoria:**
 Esse gráfico evidencia de forma visual que a migração para AWS reduz os custos de TI em aproximadamente 40%, trazendo previsibilidade e eficiência. A diferença percentual é clara: a operação em nuvem consome menos de um terço do orçamento atual.  
+
+
+---
