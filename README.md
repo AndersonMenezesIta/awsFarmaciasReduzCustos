@@ -147,8 +147,8 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 ---
 
 📎 **Anexos**
-- Manual de boas práticas AWS.  
-- Planilha comparativa de custos (On-Premises vs AWS).  
+- Manual de boas práticas AWS: **Melhores_Praticas_AWS.pdf**
+- Planilha comparativa de custos (On-Premises vs AWS): **planilha-comparativa-custos.csv**
 - Documentação oficial dos serviços EC2, RDS e S3.  
 
 ---
