@@ -172,7 +172,11 @@ A migração foi planejada em três etapas com entregas mensuráveis e foco em i
 
 **Conclusão:**
 
-A migração para AWS com EC2, RDS e S3 oferece à Abstergo uma redução direta e sustentável de custos, maior segurança, disponibilidade e agilidade operacional. Com governança de custos e treinamento, a empresa obtém previsibilidade orçamentária e base tecnológica para crescer com controle e compliance. Na fase seguinte, recomenda-se avaliar AWS Lambda (automatizações) e Amazon QuickSight (BI financeiro) para ampliar o valor entregue ao negócio.
+A migração para AWS com EC2, RDS e S3 oferece à Abstergo uma redução direta e sustentável de custos, maior segurança, disponibilidade e agilidade operacional.
+
+Com governança de custos e treinamento, a empresa obtém previsibilidade orçamentária e base tecnológica para crescer com controle e compliance. 
+
+Na fase seguinte, recomenda-se avaliar AWS Lambda (automatizações) e Amazon QuickSight (BI financeiro) para ampliar o valor entregue ao negócio.
 
 ---
 
