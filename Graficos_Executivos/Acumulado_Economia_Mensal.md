@@ -9,5 +9,10 @@ O gráfico acumulado de economia mensal que mostra claramente como a Abstergo In
 - No mês de dezembro, o total acumulado chega a R$ 95.400, confirmando a redução de ~40% nos custos de TI.  
 
 • **Conclusão para a diretoria**
-Esse gráfico reforça que a migração para AWS não só gera economia imediata, mas também garante previsibilidade financeira contínua. A cada mês, a empresa acumula ganhos, e ao final do ano o impacto é significativo e mensurável.  
+Esse gráfico reforça que a migração para AWS não só gera economia imediata, mas também garante previsibilidade financeira contínua.
+
+A cada mês, a empresa acumula ganhos, e ao final do ano o impacto é significativo e mensurável.  
+
+
+---
 
