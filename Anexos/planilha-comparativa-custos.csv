@@ -1,0 +1,7 @@
+Categoria,Situação Atual (On-Premises),Custos AWS,Economia/Impacto
+Servidores físicos (4x),R$ 48.000/ano,R$ 21.600/ano (EC2),Economia: R$ 26.400
+Energia e refrigeração,R$ 30.000/ano,Incluso na AWS,Economia: R$ 30.000
+Licenciamento SQL,R$ 25.000/ano,R$ 28.800/ano (RDS),Aumento: R$ 3.800
+Backups físicos,R$ 8.000/ano,Incluso na AWS (RDS/S3),Economia: R$ 8.000
+Aluguel salas de arquivo,R$ 42.000/ano,R$ 7.200/ano (S3),Economia: R$ 34.800
+Totais,R$ 153.000/ano,R$ 57.600/ano,Economia líquida: R$ 95.400/ano
